@@ -1,2 +1,2 @@
 # commit-practice-2
-More practice committing to GitHub ok
+More practice committing to GitHub 
